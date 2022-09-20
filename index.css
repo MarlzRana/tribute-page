@@ -1,0 +1,27 @@
+#title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#image {
+  max-width: 100%;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+}
+
+#img-caption {
+  align-self: center;
+}
+
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (max-width: 300px) {
+}
